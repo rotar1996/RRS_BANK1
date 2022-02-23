@@ -62,7 +62,7 @@ public class Main {
         System.out.println("Suma totala platita este de: " + (df.format (payments * HowMounts))+ " RON");
 
 
-//test comit 2
+//test comit 3
 
 
 
